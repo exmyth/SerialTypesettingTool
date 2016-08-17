@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/pic2pdf/itext-pdfa-5.5.7.jar"/>
+	<classpathentry kind="lib" path="libs/pic2pdf/itext-xtra-5.5.7.jar"/>
+	<classpathentry kind="lib" path="libs/pic2pdf/itextpdf-5.5.7.jar"/>
+	<classpathentry kind="lib" path="libs/pic2pdf/qrcode.jar"/>
+	<classpathentry kind="lib" path="libs/pic2pdf/swqr.jar"/>
+	<classpathentry kind="lib" path="libs/code2pic/core-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
